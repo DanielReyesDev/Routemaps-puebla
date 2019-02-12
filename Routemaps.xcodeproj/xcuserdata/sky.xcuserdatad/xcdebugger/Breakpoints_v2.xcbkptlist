@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tabb/GooglePlacesAutocomplete.swift"
+            timestampString = "457193558.244971"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabb.GooglePlacesAutocomplete.gpaViewController.setter : Swift.ImplicitlyUnwrappedOptional&lt;tabb.GooglePlacesAutocompleteContainer&gt;"
+                  moduleName = "tabb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Desktop/tabb%203%204/tabb/GooglePlacesAutocomplete.swift"
+                  timestampString = "457638407.879447"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabb.GooglePlacesAutocomplete.gpaViewController.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;tabb.GooglePlacesAutocompleteContainer&gt;"
+                  moduleName = "tabb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Desktop/tabb%203%204/tabb/GooglePlacesAutocomplete.swift"
+                  timestampString = "457638407.879645"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabb.GooglePlacesAutocomplete.init (tabb.GooglePlacesAutocomplete.Type)(navigationBarClass : Swift.ImplicitlyUnwrappedOptional&lt;Swift.AnyObject.Type&gt;, toolbarClass : Swift.ImplicitlyUnwrappedOptional&lt;Swift.AnyObject.Type&gt;) -&gt; tabb.GooglePlacesAutocomplete"
+                  moduleName = "tabb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Desktop/tabb%203%204/tabb/GooglePlacesAutocomplete.swift"
+                  timestampString = "457638407.879801"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabb.GooglePlacesAutocomplete.init (tabb.GooglePlacesAutocomplete.Type)(rootViewController : ObjectiveC.UIViewController) -&gt; tabb.GooglePlacesAutocomplete"
+                  moduleName = "tabb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Desktop/tabb%203%204/tabb/GooglePlacesAutocomplete.swift"
+                  timestampString = "457638407.879934"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabb.GooglePlacesAutocomplete.init (tabb.GooglePlacesAutocomplete.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; tabb.GooglePlacesAutocomplete"
+                  moduleName = "tabb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Desktop/tabb%203%204/tabb/GooglePlacesAutocomplete.swift"
+                  timestampString = "457638407.880068"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabb.GooglePlacesAutocomplete.init (tabb.GooglePlacesAutocomplete.Type)() -&gt; tabb.GooglePlacesAutocomplete"
+                  moduleName = "tabb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Desktop/tabb%203%204/tabb/GooglePlacesAutocomplete.swift"
+                  timestampString = "457638407.880208"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabb.GooglePlacesAutocomplete.init (tabb.GooglePlacesAutocomplete.Type)(coder : ObjectiveC.NSCoder) -&gt; tabb.GooglePlacesAutocomplete"
+                  moduleName = "tabb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Desktop/tabb%203%204/tabb/GooglePlacesAutocomplete.swift"
+                  timestampString = "457638407.880349"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tabb/GooglePlacesViewController.swift"
+            timestampString = "458355868.271606"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tabb/GooglePlacesViewController.swift"
+            timestampString = "457637883.347515"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
